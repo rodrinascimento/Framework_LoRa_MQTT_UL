@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+.pytest_cache/
+4_N4_Armazenamento/
